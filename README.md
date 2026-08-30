@@ -2,6 +2,8 @@
 
 PyPacket is a modern packet-radio terminal and AX.25 backend for KISS TNCs.
 
+<img width="1567" height="800" alt="Zrzut ekranu 2026-08-30 o 20 58 11" src="https://github.com/user-attachments/assets/205eb49d-9127-4846-9882-e2896c8da745" />
+
 It is designed for direct operation with real radios, TNCs and Direwolf, while keeping the user interface simple and familiar.
 
 ## Features
